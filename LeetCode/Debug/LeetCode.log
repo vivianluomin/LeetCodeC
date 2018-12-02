@@ -1,0 +1,3 @@
+﻿  LeetCode.cpp
+f:\cjiaproject\leetcode\leetcode\candy.h(48): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  LeetCode.vcxproj -> F:\CJiaproject\LeetCode\Debug\LeetCode.exe
